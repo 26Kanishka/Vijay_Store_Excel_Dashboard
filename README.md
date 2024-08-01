@@ -13,3 +13,4 @@ The objective of this Vijay Sales Excel Dashboard is to provide a comprehensive 
 
 4. Facilitate Data-Driven Decisions: Provide actionable insights that empower stakeholders to make informed decisions based on real-time 
    sales data.
+![Screenshot 2024-08-01 055725](https://github.com/user-attachments/assets/bf5a4ad6-8be2-4f19-90f4-8f5ce3988e2b)
